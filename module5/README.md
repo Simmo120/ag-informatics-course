@@ -5,6 +5,7 @@
 Source code for the slides is in this folder. The slides are live here:
 
 - Lecture 5.1 [in-person]: www.aginformaticslab.org/ag-informatics-course/module5/lecture5.1.html
+- Lecture 5.2 [in-person]: www.aginformaticslab.org/ag-informatics-course/module5/lecture5.2.html
 
 ## Project
 
@@ -37,3 +38,6 @@ The quiz for this module is available via Brightspace.
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
   "Introduction to Agricultural Informatics Course" by [Ankita Raturi, Purdue University](https://github.com/ag-informatics/ag-informatics-course) is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+
